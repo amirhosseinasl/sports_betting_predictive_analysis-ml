@@ -63,7 +63,7 @@ imbalanced-learn
 
 👨‍💻 Author
 
-[Your Name] – Personal machine learning project to explore predictive modeling in sports analytics using Scikit-learn.
+[Amirhosseinasl] – Personal machine learning project to explore predictive modeling in sports analytics using Scikit-learn.
 
 
 ---
